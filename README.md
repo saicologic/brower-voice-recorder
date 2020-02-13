@@ -1,7 +1,7 @@
 # 1. インストール
 
 ```
-npm install --save
+npm install
 ```
 
 # 2. アプリを起動する
